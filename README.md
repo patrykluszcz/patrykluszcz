@@ -11,3 +11,6 @@ I'm a passionate Front-end Developer with a robust background in both Angular an
 ### Frameworks / Libraries:
 ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react)
 
+### Others:
+![Angular](https://skillicons.dev/icons?i=reactivex,jest,docker,html,css,scss) ![React](https://skillicons.dev/icons?i=react)
+
