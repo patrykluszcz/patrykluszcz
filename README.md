@@ -5,4 +5,4 @@ I'm a passionate Front-end Developer with a robust background in both Angular an
 
 ## My Development Tool Belt
 
-[![angular](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react)](https://skillicons.dev)
