@@ -5,13 +5,9 @@ I'm a passionate Front-end Developer with a robust background in both Angular an
 
 ## My Development Tool Belt
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex)
-![NgRx](https://img.shields.io/badge/NgRx-764ABC?style=flat-square&logo=ngrx)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass)
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<path d="M34.25 61.125L127.325 28L222.85 60.6125L207.412 183.7L127.325 228L48.5375 184.275L34.25 61.125Z" fill="#E23237"/>
+<path d="M222.85 60.6125L127.325 28V228L207.412 183.7L222.85 60.6125Z" fill="#B52E31"/>
+<path d="M127.469 51.375L69.4688 180.375L91.1125 179.937L102.8 150.788H154.675L167.375 180.163L188.012 180.6L127.469 51.375ZM127.612 92.7875L147.237 133.769H110.5L127.669 92.7875H127.612Z" fill="white"/>
+</svg>
