@@ -5,8 +5,9 @@ I'm a passionate Front-end Developer with a robust background in both Angular an
 
 ## Technical Stack:
 
-Languagues:
-[![My Skills](https://skillicons.dev/icons?i=ts,js)](https://skillicons.dev)
+### Languages:
+![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js)
 
-Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=angular,react)](https://skillicons.dev)
+### Frameworks:
+![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react)
+
